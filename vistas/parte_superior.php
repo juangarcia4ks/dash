@@ -58,13 +58,13 @@ if($_SESSION["s_usuario"] === null){
         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Aplicaciones Disponibles:</h6>
-            <a class="collapse-item" href="https://app1-csn.apps.oc.4ks.global/">App demo1</a>
-            <a class="collapse-item" href="http://app2-csn.apps.oc.4ks.global/">App demo2</a>
-            <a class="collapse-item" href="http://app3-csn.apps.oc.4ks.global/">App demo3</a>
-            <a class="collapse-item" href="http://app4-csn.apps.oc.4ks.global/">App demo4</a>
-            <a class="collapse-item" href="http://app5-csn.apps.oc.4ks.global/">App demo5</a>
-            <a class="collapse-item" href="http://app6-csn.apps.oc.4ks.global/">App demo6</a>
-            <a class="collapse-item" href="http://app7-csn.apps.oc.4ks.global/">App demo7</a>      
+            <a class="collapse-item" href="https://app1.4ks.global">App demo1</a>
+            <a class="collapse-item" href="https://app2.4ks.global/">App demo2</a>
+            <a class="collapse-item" href="https://app3.4ks.global/">App demo3</a>
+            <a class="collapse-item" href="https://app4.4ks.global/">App demo4</a>
+            <a class="collapse-item" href="https://app5.4ks.global/">App demo5</a>
+            <a class="collapse-item" href="https://app6.4ks.global/">App demo6</a>
+            <a class="collapse-item" href="https://app7.4ks.global/">App demo7</a>      
           </div>
         </div>
       </li> 
